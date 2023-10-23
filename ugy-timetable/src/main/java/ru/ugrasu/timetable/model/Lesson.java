@@ -44,7 +44,7 @@ public class Lesson implements TimetableEntity {
 			return "🔵";
 
 		default:
-			return "🟣";
+			return "🟡";
 		}
 	}
 
